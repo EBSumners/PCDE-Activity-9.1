@@ -1,5 +1,5 @@
 # Repository for Activities 9.1 and 9.2
 
-[Visit My Live Portfolio Website](https://github.io)
+[Visit My Live Portfolio Website](https://EBSumners.github.io)
 
 <a href="https://github.io" target="_blank">Visit My Live Portfolio Website</a>
