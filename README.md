@@ -2,4 +2,4 @@
 
 [Visit My Live Portfolio Website](https://EBSumners.github.io)
 
-<a href="https://github.io" target="_blank">Visit My Live Portfolio Website</a>
+<a href="https://EBSumners.github.io"> My Live Portfolio Website</a>
